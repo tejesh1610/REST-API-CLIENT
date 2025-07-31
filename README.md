@@ -46,7 +46,7 @@ For security and best practices:
 - Avoid hard-coding the API key in production.
 - Consider loading it from environment variables or configuration files.
 
-## 📄 License
+##  License
 
 This project is open-source under the MIT License.
 
